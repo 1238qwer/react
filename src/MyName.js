@@ -11,11 +11,7 @@ class MyName extends Component {
   };
 
   render() {
-    return (
-      <div>
-        안녕안뇽안융! 제 이름은 <b>{App.name.name}}</b>입니다.
-      </div>
-    );
+    return <div>안녕안뇽안융! 제 이름은 {App.name.name}입니다.</div>;
   }
 }
 

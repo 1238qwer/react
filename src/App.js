@@ -4,7 +4,7 @@ import "./App.css";
 
 class App extends Component {
   static name = {
-    name: "앱이름"
+    name: "리액트쨩"
   };
   render() {
     return (
